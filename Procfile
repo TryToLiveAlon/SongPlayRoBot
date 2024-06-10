@@ -1,1 +1,1 @@
-worker: python3 SongPlayRoBot.py
+web: python SongPlayRoBot.py
