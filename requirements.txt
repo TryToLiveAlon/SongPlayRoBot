@@ -1,5 +1,4 @@
-TgCrypto
-Pyrogram
-youtube-dl
-youtube_search
+Flask
+youtube_dl
+youtube-search-python
 requests
